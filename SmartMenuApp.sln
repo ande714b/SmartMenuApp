@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuApp", "SmartMenuApp\SmartMenuApp.csproj", "{235C1FE7-71C6-4FA2-B0F5-FE32D729D50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235C1FE7-71C6-4FA2-B0F5-FE32D729D50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235C1FE7-71C6-4FA2-B0F5-FE32D729D50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235C1FE7-71C6-4FA2-B0F5-FE32D729D50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235C1FE7-71C6-4FA2-B0F5-FE32D729D50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7E3927-41D6-417F-A21C-F5E84151F9DE}
+	EndGlobalSection
+EndGlobal
