@@ -1,3 +1,0 @@
- kunne ikke findes...
-ERROR 1: Ugyldigt input
-ERROR 2: Dette er ikke en menu
