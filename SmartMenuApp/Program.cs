@@ -19,7 +19,7 @@ namespace SmartMenuApp
         {
             IBindings bindings = new Bindings();
             SmartMenu menu = new SmartMenu();
-            menu.LoadMenu("MenuSpec.txt");
+            menu.LoadMenu(false);
             menu.Activate(bindings);
         }
     }

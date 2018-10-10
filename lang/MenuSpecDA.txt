@@ -1,0 +1,6 @@
+Min fantastiske menu
+(Tryk menupunkt eller 0 for at afslutte)
+Goer dette;DoThis
+Goer hint;DoThat
+Goer noget;DoSomething
+Faa svaret paa livet, universet og alting;GetTheAnswerToLifeTheUniverseAndEverything
